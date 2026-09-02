@@ -1,0 +1,1 @@
+Complete 50-person Teachers' Day website. Photo IDs 1–14 come from the 14-page final-order PDF; photo IDs 15–50 come from the earlier 36-page PDF. One public URL can be used to generate one QR code for everyone.
